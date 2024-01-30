@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/vucutkitleindeksi"
+        android:title="Vucut Kitle İndeksi Hesaplayıcı" />
+    <item
+        android:id="@+id/gunlukalinmasigerekenkalori"
+        android:title="Günlük Alınması Gereken Kalori" />
+    <item
+        android:id="@+id/harcanılankalori"
+        android:title="Günlük Harcanılan Kalori" />
+    <item
+        android:id="@+id/besinkalorisi"
+        android:title="Besinlerin Kalorisi" />
+    <item
+        android:id="@+id/sporhareketleri"
+        android:title="Spor Hareketleri" />
+
+
+
+</menu>

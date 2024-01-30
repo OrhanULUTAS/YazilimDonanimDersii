@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/kosu"
+        android:title="Koşu" />
+    <item
+        android:id="@+id/yuruyus"
+        android:title="Yürüyüş" />
+    <item
+        android:id="@+id/yuzme"
+        android:title="Yüzme" />
+    <item
+        android:id="@+id/bisikletsurme"
+        android:title="Bisiklet Sürme" />
+
+</menu>

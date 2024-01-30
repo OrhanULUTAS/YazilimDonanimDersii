@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/antepfıstığı"
+        android:title="Antep fıstığı" />
+    <item
+        android:id="@+id/aycekirdeği"
+        android:title="Ay çekirdeği" />
+    <item
+        android:id="@+id/badem"
+        android:title="Badem" />
+    <item
+        android:id="@+id/ceviz"
+        android:title="Ceviz" />
+    <item
+        android:id="@+id/fındık"
+        android:title="Fındık" />
+    <item
+        android:id="@+id/kabakçekirdeği"
+        android:title="Kabak çekirdeği" />
+    <item
+        android:id="@+id/kaju"
+        android:title="Kaju " />
+    <item
+        android:id="@+id/yerfıstığı"
+        android:title="Yer fıstığı" />
+
+</menu>

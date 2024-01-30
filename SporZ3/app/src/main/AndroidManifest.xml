@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SporZ"
+        tools:targetApi="31">
+        <activity
+            android:name=".bacakbolgesi"
+            android:exported="false" />
+        <activity
+            android:name=".omuzbolgesi"
+            android:exported="false" />
+        <activity
+            android:name=".sirtbolgesi"
+            android:exported="false" />
+        <activity
+            android:name=".yaglar"
+            android:exported="false" />
+        <activity
+            android:name=".vucutkitleindeksi"
+            android:exported="false" />
+        <activity
+            android:name=".tatli"
+            android:exported="false" />
+        <activity
+            android:name=".sporhareketleri"
+            android:exported="false" />
+        <activity
+            android:name=".sebze"
+            android:exported="false" />
+        <activity
+            android:name=".meyve"
+            android:exported="false" />
+        <activity
+            android:name=".kuruyemis"
+            android:exported="false" />
+        <activity
+            android:name=".hangibesinkackalori"
+            android:exported="false" />
+        <activity
+            android:name=".gunlukharcanilankalori"
+            android:exported="false" />
+        <activity
+            android:name=".gunlukalinmasigerekenkalori"
+            android:exported="false" />
+        <activity
+            android:name=".gogusbolgesi"
+            android:exported="false" />
+        <activity
+            android:name=".eturunleri"
+            android:exported="false" />
+        <activity
+            android:name=".baklagiller"
+            android:exported="false" />
+        <activity
+            android:name=".anabasliklar"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

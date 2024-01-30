@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sporhareketleri"
+    tools:context=".vucutkitleindeksi">
+
+    <EditText
+        android:id="@+id/kilo"
+        android:layout_width="234dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="164dp"
+        android:layout_marginEnd="76dp"
+        android:ems="10"
+        android:background="#B0000000"
+        android:hint="Lütfen Kilonuzu Giriniz (KG)"
+        android:inputType="number"
+        android:textColor="#00FF0A"
+        android:textColorHint="#00FF0A"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/home"
+        android:layout_width="0dp"
+        android:layout_height="76dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/hesapla"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/hesapla"
+        app:srcCompat="@drawable/home" />
+
+    <EditText
+        android:id="@+id/boy"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="69dp"
+        android:background="#B0000000"
+        android:ems="10"
+        android:hint="Lütfen Boyunuzu Giriniz (CM)"
+        android:inputType="number"
+        android:textColor="#00FF0A"
+        android:textColorHint="#00FF0A"
+        app:layout_constraintBottom_toTopOf="@+id/sonuc"
+        app:layout_constraintEnd_toEndOf="@+id/sonuc"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/kilo"
+        app:layout_constraintTop_toBottomOf="@+id/kilo"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:id="@+id/hesapla"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="47dp"
+        android:layout_marginTop="43dp"
+        android:layout_marginEnd="43dp"
+        android:backgroundTintMode="add"
+        android:text="Hesapla"
+        app:layout_constraintEnd_toStartOf="@+id/temizle"
+        app:layout_constraintStart_toStartOf="@+id/sonuc"
+        app:layout_constraintTop_toBottomOf="@+id/sonuc" />
+
+    <TextView
+        android:id="@+id/sonuc"
+        android:layout_width="290dp"
+        android:layout_height="97dp"
+        android:layout_marginStart="54dp"
+        android:layout_marginEnd="54dp"
+        android:layout_marginBottom="236dp"
+        android:background="#B0000000"
+        android:text=""
+        android:textColor="#00FF0A"
+        android:textColorHint="#00FF0A"
+        android:textSize="35dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/temizle"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="52dp"
+        android:text="Temizle"
+        app:layout_constraintBaseline_toBaselineOf="@+id/hesapla"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

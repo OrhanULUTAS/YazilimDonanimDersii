@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/barbellbechpress"
+        android:title="Barbell Bench Press" />
+    <item
+        android:id="@+id/dumbelbenchpres"
+        android:title="Dumbell Bench Press" />
+    <item
+        android:id="@+id/declinedumbelpress"
+        android:title="Decline Dumbell Press" />
+    <item
+        android:id="@+id/pushup"
+        android:title="Push Up" />
+    <item
+        android:id="@+id/inclinedumbelpres"
+        android:title="İncline Dumbell Press" />
+    <item
+        android:id="@+id/chestpresmachine"
+        android:title="Chest Press Machine" />
+    <item
+        android:id="@+id/cablefly"
+        android:title="Cable Fly" />
+</menu>

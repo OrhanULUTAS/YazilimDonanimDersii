@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/overheadpress"
+        android:title="Overhead Press" />
+    <item
+        android:id="@+id/dumbbellshoulderpress"
+        android:title="Dumbell Shoulder Press" />
+    <item
+        android:id="@+id/dumbbelllateralraise"
+        android:title="Dumbbell Lateral Raise" />
+    <item
+        android:id="@+id/bentoverlateralraise"
+        android:title="Bent-Over Lateral Raise" />
+    <item
+        android:id="@+id/barbelluprightrow"
+        android:title="Barbell Upright Row" />
+    <item
+        android:id="@+id/dumbellfrontraises"
+        android:title="Dumbell Front Raise" />
+    <item
+        android:id="@+id/barbellfrontraises"
+        android:title="Barbell Front Raise" />
+
+</menu>

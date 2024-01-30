@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/gogus"
+        android:title="Gögüs Bölgesi" />
+    <item
+        android:id="@+id/sırt"
+        android:title="Sırt Bölgesi" />
+    <item
+        android:id="@+id/omuz"
+        android:title="Omuz Bölgesi" />
+    <item
+        android:id="@+id/bacak"
+        android:title="Bacak Bölgesi" />
+
+</menu>

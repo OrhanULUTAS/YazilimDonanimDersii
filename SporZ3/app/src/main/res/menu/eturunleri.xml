@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/danaantrikot"
+        android:title="Dana antrikot" />
+    <item
+        android:id="@+id/danabiftek"
+        android:title="Dana biftek" />
+    <item
+        android:id="@+id/danabonfile"
+        android:title="Dana bonfile" />
+    <item
+        android:id="@+id/danasucuk"
+        android:title="Dana sucuk" />
+    <item
+        android:id="@+id/tavukbut"
+        android:title="Tavuk but" />
+    <item
+        android:id="@+id/tavukgögüs"
+        android:title="Tavuk göğüs" />
+    <item
+        android:id="@+id/tavukkıyma"
+        android:title="Tavuk kıyma" />
+    <item
+        android:id="@+id/hamsi"
+        android:title="Hamsi" />
+    <item
+        android:id="@+id/levrek"
+        android:title="Levrek" />
+    <item
+        android:id="@+id/tonbalığı"
+        android:title="Ton balığı" />
+
+
+
+
+
+
+</menu>

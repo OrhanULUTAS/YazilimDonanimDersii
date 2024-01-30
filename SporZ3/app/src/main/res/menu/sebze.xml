@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/biber"
+        android:title="Biber" />
+    <item
+        android:id="@+id/dereotu"
+        android:title="Dere otu" />
+    <item
+        android:id="@+id/domates"
+        android:title="Domates" />
+    <item
+        android:id="@+id/havuc"
+        android:title="Havuç" />
+    <item
+        android:id="@+id/ispanak"
+        android:title="Ispanak" />
+    <item
+        android:id="@+id/kabak"
+        android:title="Et Kabak" />
+    <item
+        android:id="@+id/limon"
+        android:title="Limon" />
+    <item
+        android:id="@+id/patates"
+        android:title="Patates" />
+    <item
+        android:id="@+id/patlıcan"
+        android:title="Patlıcan" />
+    <item
+        android:id="@+id/salatalık"
+        android:title="Salatalık" />
+
+
+
+
+
+</menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/armut"
+        android:title="Armut" />
+    <item
+        android:id="@+id/ayva"
+        android:title="Ayva" />
+    <item
+        android:id="@+id/cilek"
+        android:title="Çilek" />
+    <item
+        android:id="@+id/elma"
+        android:title="Elma" />
+    <item
+        android:id="@+id/erik"
+        android:title="erik" />
+    <item
+        android:id="@+id/mandalina"
+        android:title="Mandalina" />
+    <item
+        android:id="@+id/seftali"
+        android:title="Şeftali" />
+    <item
+        android:id="@+id/yesilüzüm"
+        android:title="Yeşil Üzüm" />
+
+</menu>

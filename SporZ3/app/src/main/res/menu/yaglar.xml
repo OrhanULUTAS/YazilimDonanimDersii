@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/zeytinyagı"
+        android:title="Zeytin Yağı" />
+    <item
+        android:id="@+id/tereyagı"
+        android:title="Tere Yağı" />
+    <item
+        android:id="@+id/margarin"
+        android:title="Margarin" />
+    <item
+        android:id="@+id/aycickyagı"
+        android:title="Ayçiçek Yağı" />
+    <item
+        android:id="@+id/susamyagı"
+        android:title="Susam Yağı" />
+
+</menu>

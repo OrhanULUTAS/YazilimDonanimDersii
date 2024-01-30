@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bamya"
+        android:title="Bamya" />
+    <item
+        android:id="@+id/beyazfasulye"
+        android:title="Beyaz Fasülye" />
+    <item
+        android:id="@+id/bezelye"
+        android:title="Bezelye" />
+    <item
+        android:id="@+id/kırmızımercimek"
+        android:title="Kırmızı mercimek" />
+    <item
+        android:id="@+id/nohut"
+        android:title="Nohut" />
+    <item
+        android:id="@+id/soyafasülyesi"
+        android:title="Soya fasülyesi" />
+    <item
+        android:id="@+id/yerfıstıgı"
+        android:title="Yer fıstığı" />
+    <item
+        android:id="@+id/yeşilfasülye"
+        android:title="Yeşil fasülye" />
+    <item
+        android:id="@+id/yeşilmercimek"
+        android:title="Yeşil mercimek" />
+
+
+
+
+</menu>

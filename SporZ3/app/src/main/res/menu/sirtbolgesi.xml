@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/latpulldown"
+        android:title="Lat Pull Down" />
+    <item
+        android:id="@+id/seatedrow"
+        android:title="Seated Row" />
+    <item
+        android:id="@+id/dumbbelrow"
+        android:title="Dumbbell Row" />
+    <item
+        android:id="@+id/bentoverbarbellrow"
+        android:title="Bent Over Barbell Row" />
+    <item
+        android:id="@+id/closegriplatpulldown"
+        android:title="Close Grip Lat Pulldown" />
+
+    <item
+        android:id="@+id/pullup"
+        android:title="Pull Up" />
+    <item
+        android:id="@+id/backextension"
+        android:title="Back Extension" />
+
+</menu>

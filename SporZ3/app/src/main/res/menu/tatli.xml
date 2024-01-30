@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/bal"
+        android:title="Bal" />
+    <item
+        android:id="@+id/baklava"
+        android:title="Baklava" />
+    <item
+        android:id="@+id/beyazseker"
+        android:title="Beyaz Seker" />
+    <item
+        android:id="@+id/kakao"
+        android:title="Kakao" />
+    <item
+        android:id="@+id/böğürtlenreçeli"
+        android:title="Böğürtlen reçeli" />
+    <item
+        android:id="@+id/kayısıreçeli"
+        android:title="Kayısı reçeli" />
+    <item
+        android:id="@+id/yaşpasta"
+        android:title="Yaş pasta" />
+
+
+</menu>

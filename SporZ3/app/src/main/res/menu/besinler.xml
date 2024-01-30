@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/eturunleri"
+        android:title="Et Ürünleri" />
+    <item
+        android:id="@+id/baklagiller"
+        android:title="Baklagiller" />
+    <item
+        android:id="@+id/sebze"
+        android:title="Sebze" />
+    <item
+        android:id="@+id/meyve"
+        android:title="Meyve" />
+    <item
+        android:id="@+id/tatlı"
+        android:title="Tatlılar" />
+    <item
+        android:id="@+id/kuruyemis"
+        android:title="Kuruyemişler" />
+    <item
+        android:id="@+id/yaglar"
+        android:title="Yağlar" />
+
+
+</menu>
